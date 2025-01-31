@@ -26,7 +26,7 @@
 - Zum Installieren vom FTP muss man nur "sudo apt update" und "sudo apt install vsftpd -y" in das Terminal schreiben und bei den Clients schauen ob es funktioniert.
 
 ### Wo wir Probleme hatten
-- Wir hatten sehr schlimme Probleme mit dem Linux-Server. Wir konnten am anfang das Betriebsystem nicht richtig überschreiben.
+- Wir hatten sehr schlimme Probleme mit dem Linux-Server. Wir konnten am anfang das Betriebsystem nicht richtig überschreiben. Bei dem AD hatten wir auch Probleme, wir wussten nicht ganz genau was wir am anfang machen mussten daher haben wir auch sehr viel zeit verloren.
 ### Fazit Stevan Medic
 - Das Konfigurieren des Switches und des Routers hat mir sehr gefallen, da ich dabei mein Wissen über Netzwerktechnik vertiefen konnte. Besonders spannend fand ich das Einrichten der verschiedenen Einstellungen und das Testen der Verbindung. Solche praktischen Arbeiten machen mir sehr Spass, da ich gerne an technischen Systemen arbeite und dabei direkt die Auswirkungen meiner Konfigurationen sehe.
 
