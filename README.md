@@ -22,5 +22,13 @@
 ### Betriebssystem Installieren
 - Betriebssystem überschreiben-Um ein anderes Betriebssystem auf einem PC zu laufen, muss man das alte überschreiben. Das macht man, indem man auf dem Browser rufus sucht und dann die Version „rufus-4.6“ herunterlädt und laufen lässt. Nachher muss man das Laufwerk, am besten ein USB-Stick, auswählen, wie auch das gewünschte ISO-Image. Nachher muss man nur noch den Stick in den anderen PC machen und richtig booten.
 
+### FTP Installieren
+- Zum Installieren vom FTP muss man nur "sudo apt update" und "sudo apt install vsftpd -y" in das Terminal schreiben und bei den Clients schauen ob es funktioniert.
+  
+### Wo wir Probleme hatten
+- Wir hatten sehr schlimme Probleme mit dem Linux-Server. Wir konnten am anfang das Betriebsystem nicht richtig überschreiben.
 ### Fazit Stevan
 - Das Konfigurieren des Switches und des Routers hat mir sehr gefallen, da ich dabei mein Wissen über Netzwerktechnik vertiefen konnte. Besonders spannend fand ich das Einrichten der verschiedenen Einstellungen und das Testen der Verbindung. Solche praktischen Arbeiten machen mir sehr Spass, da ich gerne an technischen Systemen arbeite und dabei direkt die Auswirkungen meiner Konfigurationen sehe.
+
+### Aaron Benesch
+- Ich fand den heutigen Tag interessant, vor allem weil man gesehen hat, was einem noch geblieben ist und das man alles noch einmal repetiert hat. Wir sind nicht sehr weit gekommen, weil wir am Morgen nur zu zweit waren und einige Probleme hatten. Ich habe hauptsächlich an dem Windows Server, an den Windows und Linux Clients und an dem Überschreiben von den alten Betriebssystemen. Wir hatten bei dem Linux Server die meisten Probleme, da wir das alte Betriebssystem nicht richtig überschreiben hatte, da wir beide es vergessen haben zu machen.
