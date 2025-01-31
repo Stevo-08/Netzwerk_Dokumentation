@@ -24,11 +24,14 @@
 
 ### FTP Installieren
 - Zum Installieren vom FTP muss man nur "sudo apt update" und "sudo apt install vsftpd -y" in das Terminal schreiben und bei den Clients schauen ob es funktioniert.
-  
+
 ### Wo wir Probleme hatten
 - Wir hatten sehr schlimme Probleme mit dem Linux-Server. Wir konnten am anfang das Betriebsystem nicht richtig überschreiben.
-### Fazit Stevan
+### Fazit Stevan Medic
 - Das Konfigurieren des Switches und des Routers hat mir sehr gefallen, da ich dabei mein Wissen über Netzwerktechnik vertiefen konnte. Besonders spannend fand ich das Einrichten der verschiedenen Einstellungen und das Testen der Verbindung. Solche praktischen Arbeiten machen mir sehr Spass, da ich gerne an technischen Systemen arbeite und dabei direkt die Auswirkungen meiner Konfigurationen sehe.
 
-### Aaron Benesch
+### Fazit Aaron Benesch
 - Ich fand den heutigen Tag interessant, vor allem weil man gesehen hat, was einem noch geblieben ist und das man alles noch einmal repetiert hat. Wir sind nicht sehr weit gekommen, weil wir am Morgen nur zu zweit waren und einige Probleme hatten. Ich habe hauptsächlich an dem Windows Server, an den Windows und Linux Clients und an dem Überschreiben von den alten Betriebssystemen. Wir hatten bei dem Linux Server die meisten Probleme, da wir das alte Betriebssystem nicht richtig überschreiben hatte, da wir beide es vergessen haben zu machen.
+
+### Fazit Joris Brunold
+- Ich habe diese Arbeit spannend gefunden, doch leider kamen wir nicht so schnell vorwärts, wie wir gehofft haben. Vor allem beim Linux Server hatten wir länger gebraucht als ich erwartet habe. Leider hatten wir Probleme beim Überschreiben des Betriebssystems und brauchten dadurch um einiges länger dafür. Trotzdem habe ich heute so einiges repetieren können. Dazu gehöhrten Linux, Switch und Router konfigurieren.
