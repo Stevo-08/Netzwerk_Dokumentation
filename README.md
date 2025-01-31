@@ -22,5 +22,5 @@
 ## 
 - Betriebssystem überschreiben-Um ein anderes Betriebssystem auf einem PC zu laufen, muss man das alte überschreiben. Das macht man, indem man auf dem Browser rufus sucht und dann die Version „rufus-4.6“ herunterlädt und laufen lässt. Nachher muss man das Laufwerk, am besten ein USB-Stick, auswählen, wie auch das gewünschte ISO-Image. Nachher muss man nur noch den Stick in den anderen PC machen und richtig booten.
 
-###Fazit Stevan
+### Fazit Stevan
 - Das Konfigurieren des Switches und des Routers hat mir sehr gefallen, da ich dabei mein Wissen über Netzwerktechnik vertiefen konnte. Besonders spannend fand ich das Einrichten der verschiedenen Einstellungen und das Testen der Verbindung. Solche praktischen Arbeiten machen mir sehr Spass, da ich gerne an technischen Systemen arbeite und dabei direkt die Auswirkungen meiner Konfigurationen sehe.
